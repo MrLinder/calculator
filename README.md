@@ -1,7 +1,6 @@
-# calculator
-my java hello world
+# It math calculator in beautiful dark style.
 
-I used Java, awt, swing, 
+it beautiful dark calc with math functions, i maked it on java with GUI swing. I hope you enjoy it.
 
 ![Screenshot](calc.bmp)
 
